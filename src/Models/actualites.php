@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace Ahmedsie\Actualites;
 
 use Illuminate\Database\Eloquent\Model;
 
