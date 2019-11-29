@@ -1,0 +1,14 @@
+{
+    "name": "switchmaker/actualites",
+    "description": "Formation sur l cr\u0000ation de package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SIE",
+            "email": "ahmedsie3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
