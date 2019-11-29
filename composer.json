@@ -3,6 +3,12 @@
     "description": "Formation sur l cr\u0000ation de package",
     "type": "library",
     "license": "MIT",
+     "autoload": {
+        "psr-4": {
+            "ahmedsie\\actualites\\": "src"
+        }
+       
+    },
     "authors": [
         {
             "name": "SIE",
